@@ -1,0 +1,22 @@
+#education-form{
+  display: flex;
+  flex-direction: column;
+}
+
+.display{
+  background-color: white;
+  opacity: 0.9;
+  color: black;
+  border-radius: 1%;
+  text-align: center;
+}
+
+
+h5{
+  font-style: normal;
+  font-weight: normal;
+}
+
+h5 span{
+  font-weight: 600;
+}
