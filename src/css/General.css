@@ -6,9 +6,8 @@
 .display{
   background-color: white;
   opacity: 0.9;
-  color: black;
+  color: blue;
   border-radius: 1%;
-  text-align: center;
 }
 
 
@@ -18,5 +17,5 @@ h5{
 }
 
 h5 span{
-  font-weight: 600;
+  font-weight: normal;
 }
