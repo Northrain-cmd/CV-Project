@@ -1,0 +1,26 @@
+#experience-form{
+  display: flex;
+  flex-direction: column;
+}
+
+.display-exp{
+  background-color: white;
+  opacity: 0.9;
+  color: black;
+  border-radius: 1%;
+}
+
+
+h5{
+  font-style: normal;
+  font-weight: normal;
+}
+
+p{
+  font-size: 1.25rem;
+}
+
+h5 span{
+  font-weight: normal;
+  color: blue;
+}

@@ -50,11 +50,14 @@ class General extends React.Component {
       })
       return
     }
-    // <--- End of country select input handler ---/>
 
+    // <--- End of country select input handler ---/>
+    
     this.setState({
       [e.target.name]: e.target.value
     });
+
+    
   }
 
   onEdit() {

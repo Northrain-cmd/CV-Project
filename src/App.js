@@ -1,6 +1,7 @@
 import './css/App.css';
 import General from './components/General';
 import Education from './components/Education';
+import Experience from './components/Experience';
 
 function App() {
   return (
@@ -10,6 +11,8 @@ function App() {
        <General/>
        <h4 className="text-center mt-4">Education</h4>
        <Education/>
+       <h4 className="text-center mt-4">Experience</h4>
+       <Experience/>
       </div>
       
     </div>
